@@ -1,4 +1,4 @@
-## Angular 8 - The Complete Guide (2019+ Edition)
+## [Angular 8 - The Complete Guide (2019+ Edition)](https://coursehunter.net/course/udemy-angular-4-2-the-complete-guide)
 
 by Max
 
