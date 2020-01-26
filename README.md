@@ -2,15 +2,7 @@
 
 by Max
 
-Current -> УРОК 24.
-00:03:08
-Property Binding vs String Interpolation
-
-УРОК 25.
-00:04:10
-Event Binding
-
-УРОК 26.
+Current -> УРОК 26.
 00:04:38
 Passing and Using Data with Event Binding
 
