@@ -1,6 +1,6 @@
 ## [Angular 8 - The Complete Guide (2019+ Edition)](https://coursehunter.net/course/udemy-angular-4-2-the-complete-guide)
 
-by Max
+by Maximilian Schwarzmüller
 
 Current -> УРОК 26.
 00:04:38
