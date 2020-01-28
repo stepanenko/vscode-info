@@ -6,7 +6,7 @@ by **Maximilian Schwarzmüller**
 
 * Duration: 37:32:49
 
-Current -> УРОК 26.
+**Current** -> УРОК 26.
 00:04:38
 Passing and Using Data with Event Binding
 
