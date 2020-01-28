@@ -1,8 +1,8 @@
 ## [Angular 8 - The Complete Guide (2019+ Edition)](https://coursehunter.net/course/udemy-angular-4-2-the-complete-guide)
 
-by **Maximilian Schwarzmüller
+by **Maximilian Schwarzmüller**
 
-* Date Updated: 28/11/2019
+* Date Updated: 28.11.2019
 
 * Duration: 37:32:49
 
