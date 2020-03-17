@@ -2,7 +2,11 @@
 
 by **Maximilian Schwarzmüller**
 
-Current -> УРОК 28.
+* Date Updated: 28.11.2019
+
+* Duration: 37:32:49
+
+**Current** -> УРОК 28.
 00:01:47
 Combining all Forms of Databinding
 
