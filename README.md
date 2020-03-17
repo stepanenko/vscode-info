@@ -1,16 +1,8 @@
 ## [Angular 8 - The Complete Guide (2019+ Edition)](https://coursehunter.net/course/udemy-angular-4-2-the-complete-guide)
 
-by Maximilian Schwarzmüller
+by **Maximilian Schwarzmüller**
 
-Current -> УРОК 26.
-00:04:38
-Passing and Using Data with Event Binding
-
-УРОК 27.
-00:02:48
-Two-Way-Databinding
-
-УРОК 28.
+Current -> УРОК 28.
 00:01:47
 Combining all Forms of Databinding
 
