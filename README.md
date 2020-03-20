@@ -6,23 +6,7 @@ by **Maximilian Schwarzmüller**
 
 * Duration: 37:32:49
 
-**Current** -> УРОК 28.
-00:01:47
-Combining all Forms of Databinding
-
-УРОК 29.
-00:05:13
-[OPTIONAL] Assignment Solution
-
-УРОК 30.
-00:02:18
-Understanding Directives
-
-УРОК 31.
-00:03:54
-Using ngIf to Output Data Conditionally
-
-УРОК 32.
+**Current** -> УРОК 32.
 00:02:47
 Enhancing ngIf with an Else Condition
 
