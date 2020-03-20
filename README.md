@@ -2,9 +2,9 @@
 
 by **Maximilian Schwarzmüller**
 
-* Date Updated: 28.11.2019
+* Updated: **28.11.2019**
 
-* Duration: 37:32:49
+* Duration: **37:32:49**
 
 **Current** -> УРОК 32.
 00:02:47
