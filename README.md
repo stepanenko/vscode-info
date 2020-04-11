@@ -6,15 +6,7 @@ by **Maximilian Schwarzmüller**
 
 * Duration: **37:32:49**
 
-**Current** -> УРОК 32.
-00:02:47
-Enhancing ngIf with an Else Condition
-
-УРОК 33.
-00:05:03
-Styling Elements Dynamically with ngStyle
-
-УРОК 34.
+**Current** -> УРОК 34.
 00:02:54
 Applying CSS Classes Dynamically with ngClass
 
