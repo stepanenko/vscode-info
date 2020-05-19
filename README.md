@@ -1,4 +1,4 @@
-## [Angular 8 - The Complete Guide 2020](https://coursehunter.net/course/udemy-angular-4-2-the-complete-guide)
+## [Angular - The Complete Guide 2020](https://coursehunter.net/course/udemy-angular-4-2-the-complete-guide)
 
 by **Maximilian Schwarzmüller**
 
