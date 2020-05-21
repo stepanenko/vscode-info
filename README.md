@@ -6,35 +6,7 @@ by **Maximilian Schwarzmüller**
 
 * Duration: **32:02:16**
 
-**Current** -> УРОК 34.
-00:02:54
-Applying CSS Classes Dynamically with ngClass
-
-УРОК 35.
-00:03:44
-Outputting Lists with ngFor
-
-УРОК 36.
-00:07:07
-[OPTIONAL] Assignment Solution
-
-УРОК 37.
-00:02:53
-Getting the Index when using ngFor
-
-УРОК 38.
-00:01:05
-Project Introduction
-
-УРОК 39.
-00:05:35
-Planning the App
-
-УРОК 40.
-00:04:32
-Setting up the Application
-
-УРОК 41.
+**Current** -> УРОК 41.
 00:09:33
 Creating the Components
 
