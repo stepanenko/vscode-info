@@ -1,36 +1,12 @@
-## [Angular 8 - The Complete Guide (2019+ Edition)](https://coursehunter.net/course/udemy-angular-4-2-the-complete-guide)
+## [Angular - The Complete Guide 2020](https://coursehunter.net/course/udemy-angular-4-2-the-complete-guide)
 
 by **Maximilian Schwarzmüller**
 
-* Date Updated: 28.11.2019
+* Updated: **13.05.2020**
 
-* Duration: 37:32:49
+* Duration: **32:02:16**
 
-**Current** -> УРОК 28.
-00:01:47
-Combining all Forms of Databinding
-
-УРОК 29.
-00:05:13
-[OPTIONAL] Assignment Solution
-
-УРОК 30.
-00:02:18
-Understanding Directives
-
-УРОК 31.
-00:03:54
-Using ngIf to Output Data Conditionally
-
-УРОК 32.
-00:02:47
-Enhancing ngIf with an Else Condition
-
-УРОК 33.
-00:05:03
-Styling Elements Dynamically with ngStyle
-
-УРОК 34.
+**Current** -> УРОК 34.
 00:02:54
 Applying CSS Classes Dynamically with ngClass
 
@@ -59,7 +35,7 @@ Planning the App
 Setting up the Application
 
 УРОК 41.
-00:09:34
+00:09:33
 Creating the Components
 
 УРОК 42.
@@ -291,7 +267,7 @@ Understanding the Hierarchical Injector
 How many Instances of Service Should It Be?
 
 УРОК 99.
-00:04:25
+00:05:14
 Injecting Services into Services
 
 УРОК 100.
@@ -1051,7 +1027,7 @@ Preparing Programmatic Creation
 Creating a Component Programmatically
 
 УРОК 289.
-00:03:47
+00:05:07
 Understanding entryComponents
 
 УРОК 290.
@@ -1111,7 +1087,7 @@ Adding an Auth Feature Module
 Understanding Lazy Loading
 
 УРОК 304.
-00:10:31
+00:12:21
 Implementing Lazy Loading
 
 УРОК 305.
@@ -1327,405 +1303,229 @@ Cleanup Work
 Wrap Up
 
 УРОК 358.
-00:02:08
-[LEGACY] Module Introduction
-
-УРОК 359.
-00:08:30
-[LEGACY] State Challenges
-
-УРОК 360.
-00:08:28
-[LEGACY] Getting Started with Reducers
-
-УРОК 361.
-00:03:57
-[LEGACY] Adding Actions
-
-УРОК 362.
-00:03:12
-[LEGACY] Finishing the First Reducer
-
-УРОК 363.
-00:01:56
-[LEGACY] Registering the Application Store
-
-УРОК 364.
-00:04:18
-[LEGACY] Selecting Data from State
-
-УРОК 365.
-00:05:24
-[LEGACY] Dispatch Actions
-
-УРОК 366.
-00:07:54
-[LEGACY] More Actions and Adding Ingredients
-
-УРОК 367.
-00:06:55
-[LEGACY] Dispatching Update and Deleting Shopping List Actions
-
-УРОК 368.
-00:05:02
-[LEGACY] Expanding App State
-
-УРОК 369.
-00:07:21
-[LEGACY] Editing the Shopping-List via NgRx
-
-УРОК 370.
-00:03:57
-[LEGACY] Managing all Relevant State
-
-УРОК 371.
-00:02:52
-[LEGACY] Authentication and Side Effects - Introduction
-
-УРОК 372.
-00:06:06
-[LEGACY] Setting up the Auth Store Files
-
-УРОК 373.
-00:03:51
-[LEGACY] The Reducer
-
-УРОК 374.
-00:02:36
-[LEGACY] Adding Reducer Logic & Actions
-
-УРОК 375.
-00:02:54
-[LEGACY] Adjusting the App Module Setup
-
-УРОК 376.
-00:05:19
-[LEGACY] Using Authentication
-
-УРОК 377.
-00:04:24
-[LEGACY] Dispatch Actions
-
-УРОК 378.
-00:06:26
-[LEGACY] Getting State Access in Http Interceptor
-
-УРОК 379.
-00:01:58
-[LEGACY] Handling the Auth Token
-
-УРОК 380.
-00:02:48
-[LEGACY] Only React to Actions Once via take(1)
-
-УРОК 381.
-00:03:21
-[LEGACY] A Closer Look at Effects
-
-УРОК 382.
-00:03:04
-[LEGACY] Auth Effects and Actions
-
-УРОК 383.
-00:05:00
-[LEGACY] Effects - How they Work
-
-УРОК 384.
-00:10:01
-[LEGACY] Adding Auth Signup
-
-УРОК 385.
-00:04:48
-[LEGACY] Adding Auth Signin
-
-УРОК 386.
-00:01:23
-[LEGACY] Navigation as a Side Effect
-
-УРОК 387.
-00:02:14
-[LEGACY] Handling Logout via NgRx
-
-УРОК 388.
-00:01:21
-[LEGACY] Additional Fixes
-
-УРОК 389.
-00:02:04
-[LEGACY] Redirecting Upon Logout
-
-УРОК 390.
-00:03:12
-[LEGACY] What's Next?
-
-УРОК 391.
-00:01:47
-[LEGACY] The Router Store Package
-
-УРОК 392.
-00:05:55
-[LEGACY] Store Devtools
-
-УРОК 393.
-00:07:55
-[LEGACY] Lazy Load and Dynamic Injection
-
-УРОК 394.
-00:04:24
-[LEGACY] Adding Recipe Actions
-
-УРОК 395.
-00:05:39
-[LEGACY] Adding Recipe Reducers
-
-УРОК 396.
-00:04:47
-[LEGACY] Dispatching and Selecting State
-
-УРОК 397.
-00:07:39
-[LEGACY] Viewing and Deleting Recipes via NgRx
-
-УРОК 398.
-00:05:45
-[LEGACY] Editing and Updating Recipes via NgRx
-
-УРОК 399.
-00:09:50
-[LEGACY] Recipes Side Effects - Fetching from Server
-
-УРОК 400.
-00:05:00
-[LEGACY] Recipes Side Effects - Storing Recipes on Server
-
-УРОК 401.
-00:03:13
-[LEGACY] Cleaning Up
-
-УРОК 402.
-00:12:43
-[LEGACY] Updating to RxJS 6+
-
-УРОК 403.
-00:01:09
-[LEGACY] Wrap Up
-
-УРОК 404.
 00:03:05
 Module Introduction
 
-УРОК 405.
+УРОК 359.
 00:10:02
 Adding Angular Universal
 
-УРОК 406.
+УРОК 360.
 00:06:19
 Adding Angular Universal with NestJS
 
-УРОК 407.
+УРОК 361.
 00:01:41
 Module Introduction
 
-УРОК 408.
+УРОК 362.
 00:01:32
 Getting Started with Angular Universal
 
-УРОК 409.
+УРОК 363.
 00:04:03
 Working on the App Module
 
-УРОК 410.
+УРОК 364.
 00:04:56
 Adding a Server-Side Build Workflow
 
-УРОК 411.
+УРОК 365.
 00:08:27
 Adding a NodeJS Server
 
-УРОК 412.
+УРОК 366.
 00:04:12
 Pre-Rendering the App on the Server
 
-УРОК 413.
+УРОК 367.
 00:01:39
 Next Steps
 
-УРОК 414.
+УРОК 368.
 00:01:04
 Introduction
 
-УРОК 415.
+УРОК 369.
 00:00:54
 Setting up the Starting Project
 
-УРОК 416.
+УРОК 370.
 00:07:13
 Animations Triggers and State
 
-УРОК 417.
+УРОК 371.
 00:02:05
 Switching between States
 
-УРОК 418.
+УРОК 372.
 00:01:55
 Transitions
 
-УРОК 419.
+УРОК 373.
 00:05:23
 Advanced Transitions
 
-УРОК 420.
+УРОК 374.
 00:03:58
 Transition Phases
 
-УРОК 421.
+УРОК 375.
 00:06:12
 The "void" State
 
-УРОК 422.
+УРОК 376.
 00:05:33
 Using Keyframes for Animations
 
-УРОК 423.
+УРОК 377.
 00:02:12
 Grouping Transitions
 
-УРОК 424.
+УРОК 378.
 00:02:39
 Using Animation Callbacks
 
-УРОК 425.
+УРОК 379.
 00:02:10
 Module Introduction
 
-УРОК 426.
+УРОК 380.
 00:12:42
 Adding Service Workers
 
-УРОК 427.
+УРОК 381.
 00:05:29
 Caching Assets for Offline Use
 
-УРОК 428.
+УРОК 382.
 00:07:03
 Caching Dynamic Assets & URLs
 
-УРОК 429.
+УРОК 383.
 00:01:20
 Introduction
 
-УРОК 430.
+УРОК 384.
 00:02:14
 Why Unit Tests?
 
-УРОК 431.
+УРОК 385.
 00:08:02
 Analyzing the Testing Setup (as created by the CLI)
 
-УРОК 432.
+УРОК 386.
 00:02:00
 Running Tests (with the CLI)
 
-УРОК 433.
+УРОК 387.
 00:06:16
 Adding a Component and some fitting Tests
 
-УРОК 434.
+УРОК 388.
 00:06:56
 Testing Dependencies: Components and Services
 
-УРОК 435.
+УРОК 389.
 00:09:42
 Simulating Async Tasks
 
-УРОК 436.
+УРОК 390.
 00:02:15
 Using "fakeAsync" and "tick"
 
-УРОК 437.
+УРОК 391.
 00:06:11
 Isolated vs Non-Isolated Tests
 
-УРОК 438.
-00:11:52
-What's New with Angular 8?
+УРОК 392.
+00:01:45
+Module Introduction
 
-УРОК 439.
+УРОК 393.
+00:05:19
+A Closer Look at "ng new"
+
+УРОК 394.
+00:02:32
+IDE & Project Setup
+
+УРОК 395.
+00:09:02
+Understanding the Config Files
+
+УРОК 396.
+00:05:26
+Important CLI Commands
+
+УРОК 397.
+00:11:19
+The "angular.json" File - A Closer Look
+
+УРОК 398.
+00:01:42
+Angular Schematics - An Introduction
+
+УРОК 399.
+00:04:32
+The "ng add" Command
+
+УРОК 400.
+00:03:06
+Using Custom "ng generate" Schematics
+
+УРОК 401.
+00:02:15
+Smooth Updating of Projects with "ng update"
+
+УРОК 402.
+00:05:47
+Simplified Deployment with "ng deploy"
+
+УРОК 403.
+00:05:11
+Understanding "Differential Loading"
+
+УРОК 404.
+00:04:36
+Managing Multiple Projects in One Folder
+
+УРОК 405.
+00:02:52
+Angular Libraries - An Introduction
+
+УРОК 406.
+00:01:28
+Wrap Up
+
+УРОК 407.
 00:15:35
 A First Look At Angular Elements
 
-УРОК 440.
+УРОК 408.
 00:01:34
 Course Roundup
 
-УРОК 441.
-00:00:45
-Introduction
-
-УРОК 442.
-00:00:49
-Initializing the Project
-
-УРОК 443.
-00:03:17
-Setting up the Basic Project Files
-
-УРОК 444.
-00:02:16
-Installing the Core Dependencies
-
-УРОК 445.
-00:09:36
-Filling the Project Files with Some Life
-
-УРОК 446.
-00:02:06
-index.html & Polyfills
-
-УРОК 447.
-00:01:46
-Installing Development Dependencies
-
-УРОК 448.
-00:11:13
-Setting up a Development Workflow
-
-УРОК 449.
-00:01:31
-Finishing & Using the Development Workflow
-
-УРОК 450.
-00:09:49
-Setting up a Production Workflow
-
-УРОК 451.
-00:03:48
-Adding Types & Fixing Bugs
-
-УРОК 452.
-00:02:57
-Finishing Touches
-
-УРОК 453.
+УРОК 409.
 00:02:10
 Introduction
 
-УРОК 454.
+УРОК 410.
 00:06:28
 Using Types
 
-УРОК 455.
+УРОК 411.
 00:04:48
 Classes
 
-УРОК 456.
+УРОК 412.
 00:05:45
 Interfaces
 
-УРОК 457.
+УРОК 413.
 00:02:45
 Generics
 
-УРОК 458.
+УРОК 414.
 00:02:38
 Wrap up & Modules
