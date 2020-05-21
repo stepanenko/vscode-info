@@ -4,6 +4,16 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-server',
   templateUrl: './server.component.html',
-  // styleUrls: ['./app.component.css']
+  styleUrls: ['./server.component.css']
 })
-export class ServerComponent {}
+export class ServerComponent {
+  status = 'online';
+
+  getColor() {
+    return 'red';
+  }
+
+  getFontColor() {
+    return 'white';
+  }
+}
