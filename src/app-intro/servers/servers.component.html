@@ -4,12 +4,14 @@
 <br>
 <label>Name of New Server: {{ serverName }}</label>
 <input type="text" class="form-control" name="name" [(ngModel)]="serverName">
-<button class="btn btn-primary" [disabled]="!allowNewServer" (click)="onCreateServer()">
+<button class="btn btn-primary" [disabled]="!allowNewServer" (click)="onCreateServer(); status = true">
   Add Server
 </button>
-<p *ngIf="serverName === ''">Server was created, its name is: {{ servers[servers.length - 1] }}</p>
+
+<span> Status: {{ serverCreationStatus }} </span>
+<span *ngIf="status">It's name is: {{ servers[servers.length - 1] }}</span>
 <p *ngFor="let server of servers">
   {{ server }}
 </p>
 
-<app-server></app-server>
+<app-server *ngFor="let server of servers"></app-server>
