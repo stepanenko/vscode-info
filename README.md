@@ -6,31 +6,9 @@ by **Maximilian Schwarzmüller**
 
 * Duration: **32:02:16**
 
-**Current** -> УРОК 41.
-00:09:33
-Creating the Components
+* Progress: **9 %**
 
-УРОК 42.
-00:03:16
-Using the Components
-
-УРОК 43.
-00:05:10
-Adding a Navigation Bar
-
-УРОК 44.
-00:04:34
-Creating a "Recipe" Model
-
-УРОК 45.
-00:07:42
-Adding Content to the Recipes Components
-
-УРОК 46.
-00:04:38
-Outputting a List of Recipes with ngFor
-
-УРОК 47.
+**Current** -> УРОК 47.
 00:05:54
 Displaying Recipe Details
 
