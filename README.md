@@ -6,61 +6,9 @@ by **Maximilian Schwarzmüller**
 
 * Duration: **32:02:16**
 
-* Progress: **9 %**
+* Progress: **11%**
 
-**Current** -> УРОК 47.
-00:05:54
-Displaying Recipe Details
-
-УРОК 48.
-00:01:51
-Working on the ShoppingListComponent
-
-УРОК 49.
-00:02:37
-Creating an "Ingredient" Model
-
-УРОК 50.
-00:02:28
-Creating and Outputting the Shopping List
-
-УРОК 51.
-00:03:29
-Adding a Shopping List Edit Section
-
-УРОК 52.
-00:00:55
-Wrap Up & Next Steps
-
-УРОК 53.
-00:04:37
-Understanding Angular Error Messages
-
-УРОК 54.
-00:05:33
-Debugging Code in the Browser Using Sourcemaps
-
-УРОК 55.
-00:02:02
-Using Augury to Dive into Angular Apps
-
-УРОК 56.
-00:00:37
-Module Introduction
-
-УРОК 57.
-00:05:57
-Splitting Apps into Components
-
-УРОК 58.
-00:01:45
-Property & Event Binding Overview
-
-УРОК 59.
-00:05:44
-Binding to Custom Properties
-
-УРОК 60.
+**Current** -> УРОК 60.
 00:02:00
 Assigning an Alias to Custom Properties
 
