@@ -6,65 +6,9 @@ by **Maximilian Schwarzmüller**
 
 * Duration: **32:02:16**
 
-* Progress: **11%**
+* Progress: **14%**
 
-**Current** -> УРОК 60.
-00:02:00
-Assigning an Alias to Custom Properties
-
-УРОК 61.
-00:09:07
-Binding to Custom Events
-
-УРОК 62.
-00:00:58
-Assigning an Alias to Custom Events
-
-УРОК 63.
-00:02:03
-Custom Property and Event Binding Summary
-
-УРОК 64.
-00:05:00
-Understanding View Encapsulation
-
-УРОК 65.
-00:02:44
-More on View Encapsulation
-
-УРОК 66.
-00:04:37
-Using Local References in Templates
-
-УРОК 67.
-00:05:03
-Getting Access to the Template & DOM with @ViewChild
-
-УРОК 68.
-00:03:23
-Projecting Content into Components with ng-content
-
-УРОК 69.
-00:04:55
-Understanding the Component Lifecycle
-
-УРОК 70.
-00:11:56
-Seeing Lifecycle Hooks in Action
-
-УРОК 71.
-00:02:34
-Lifecycle Hooks and Template Access
-
-УРОК 72.
-00:03:01
-Getting Access to ng-content with @ContentChild
-
-УРОК 73.
-00:00:50
-Wrap Up
-
-УРОК 74.
+**Current** -> УРОК 74.
 00:12:22
 [OPTIONAL] Assignment Solution
 
