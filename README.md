@@ -6,21 +6,9 @@ by **Maximilian Schwarzmüller**
 
 * Duration: **32:02:16**
 
-* Progress: **14%**
+* Progress: **16%**
 
-**Current** -> УРОК 74.
-00:12:22
-[OPTIONAL] Assignment Solution
-
-УРОК 75.
-00:00:51
-Introduction
-
-УРОК 76.
-00:07:32
-Adding Navigation with Event Binding and ngIf
-
-УРОК 77.
+**Current** -> УРОК 77.
 00:04:45
 Passing Recipe Data with Property Binding
 
