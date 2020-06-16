@@ -1,14 +1,16 @@
 ## [Angular - The Complete Guide 2020](https://coursehunter.net/course/udemy-angular-4-2-the-complete-guide)
 
-by **Maximilian Schwarzmüller**
+Author: **Maximilian Schwarzmüller**
 
-* Updated: **13.05.2020**
+Updated: **13.05.2020**
 
-* Duration: **32:02:16**
+Duration: **32:02:16**
 
-* Progress: **14%**
+Progress: **74/414**
 
-**Current** -> УРОК 74.
+Tech stack: **Angular 9.1.9**
+
+Current: -> УРОК 74.
 00:12:22
 [OPTIONAL] Assignment Solution
 
