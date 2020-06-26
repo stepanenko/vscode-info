@@ -10,6 +10,5 @@ export class AppComponent {
 
   onNavigate(reature: string) {
     this.loadedFeature = reature;
-    console.log(reature);
   }
 }
