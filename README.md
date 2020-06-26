@@ -7,8 +7,8 @@ Updated: **13.05.2020**
 
 Duration: **32:02:16**
 
-Progress: **82/414**
+Progress: **87/414**
 
 Tech stack: **Angular 9.1.9**
 
-Udemy: **[Video](https://www.udemy.com/course/the-complete-guide-to-angular-2/)**
+Video: **[Udemy Course](https://www.udemy.com/course/the-complete-guide-to-angular-2/)**
