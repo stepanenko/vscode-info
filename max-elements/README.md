@@ -4,7 +4,7 @@ Author: **Maximilian Schwarzmüller**
 
 Duration: **00:15:34**
 
-Tech stack: **Angular 9.1.11**
+Updated on 02.10.2020
 
 ### Description:
 
