@@ -9,6 +9,6 @@ Duration: **32:02:16**
 
 Progress: **91/414**
 
-Tech stack: **Angular 9.1.9**
+Updated all with `ncu -u` on 02.10.2020
 
 Video: **[Udemy Course](https://www.udemy.com/course/the-complete-guide-to-angular-2/)**
