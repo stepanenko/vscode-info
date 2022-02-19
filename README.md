@@ -8,18 +8,22 @@ CTR + ~ -> Terminal
 
 CTR + Tab -> Tab through open files
 
-CMD + B -> Sidebar
-
-CMD + , -> Settings
+CTR + G -> Go to specified line
 
 CMD + \ -> Open file in split window
 
 CMD + W -> Close file
 
-CMD + Shift + F -> Global searce
+CMD + B -> Sidebar
 
-CMD + Shift + P -> Command pallete
+CMD + , -> Settings
 
 CMD + D -> Select word
 
 CMD + Shift + L -> Select all instances of a selected word
+
+CMD + Shift + F -> Global searce
+
+CMD + Shift + P -> Command pallete
+
+CMD + Shift + . -> Dropdown with functions and variables
