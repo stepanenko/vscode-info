@@ -16,3 +16,4 @@ CMD + Shift + L | Select all instances of a selected word
 CMD + Shift + F | Global search
 CMD + Shift + P | Command pallete
 CMD + Shift + . | Dropdown with functions and variables
+OPT + Shift + F | Auto format
