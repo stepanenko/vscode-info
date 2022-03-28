@@ -27,3 +27,20 @@ file-icons | file-icons
 Material Icon Theme | Philipp Kief
 Git-Lens | GitKraken
 Import Cost | Wix
+
+### Fonts - Editor (may look different on different screens)
+Name  |
+----- |
+'Roboto Mono Regular / Light'
+'JetBrains Mono Light / Thin'
+'Fira Code'
+'Oxygen Mono'
+Cousine
+Lekton
+
+### Fonts - Terminal
+Name  |
+----- |
+'JetBrains Mono Thin'
+'Fira Code'
+Lekton
