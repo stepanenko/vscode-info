@@ -17,3 +17,13 @@ CMD + Shift + F | Global search
 CMD + Shift + P | Command pallete
 CMD + Shift + . | Dropdown with functions and variables
 OPT + Shift + F | Auto format
+
+### Extensions
+Name  |  Author
+----- | -------
+Ayu Adaptive | ccy
+Code Runner | Jun Han
+file-icons | file-icons
+Material Icon Theme | Philipp Kief
+Git-Lens | GitKraken
+Import Cost | Wix
