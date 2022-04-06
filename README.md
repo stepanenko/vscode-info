@@ -41,6 +41,7 @@ Lekton
 ### Fonts - Terminal
 Name  |
 ----- |
+'Roboto Mono Regular / Light'
 'JetBrains Mono Thin'
 'Fira Code'
 Lekton
