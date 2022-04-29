@@ -31,6 +31,7 @@ Import Cost | Wix
 Name  |  Author
 ----- | -------
 Nord | arcticicestudio
+Nord Dark Pro | FourLineCode
 Ayu Adaptive | ccy
 
 ### Fonts - Editor (may look different on different screens)
