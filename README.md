@@ -1,5 +1,5 @@
 
-## VSCode Info
+## Visual Studio Code - Notes
 
 ### Shortcuts
 Keys | Meaning
