@@ -21,12 +21,17 @@ OPT + Shift + F | Auto format
 ### Extensions
 Name  |  Author
 ----- | -------
-Ayu Adaptive | ccy
 Code Runner | Jun Han
 file-icons | file-icons
 Material Icon Theme | Philipp Kief
 Git-Lens | GitKraken
 Import Cost | Wix
+
+### Themes
+Name  |  Author
+----- | -------
+Nord | arcticicestudio
+Ayu Adaptive | ccy
 
 ### Fonts - Editor (may look different on different screens)
 Name  |
@@ -45,3 +50,8 @@ Name  |
 'JetBrains Mono Thin'
 'Fira Code'
 Lekton
+
+### Fonts to try
+Name  |
+----- |
+['Cascadia Code'](https://github.com/microsoft/cascadia-code)
