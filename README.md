@@ -34,6 +34,12 @@ Nord | arcticicestudio
 Nord Dark Pro | FourLineCode
 Ayu Adaptive | ccy
 
+### File Icons
+Name  |  Author
+----- | -------
+Seti | VSCode default
+Material Icon Theme | Philipp Kief
+
 ### Fonts - Editor (may look different on different screens)
 Name  |
 ----- |
